@@ -7,3 +7,4 @@ googlesearch-python
 praw
 bs4~=4.12.3
 dotenv~=0.9.9
+wikipedia-api
